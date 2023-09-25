@@ -1,0 +1,43 @@
+*{
+    margin: 0%;
+    font-family: 'Arial, Helvetica, sans-serif';
+    font-size: 22px;
+}
+section{
+    padding: 0%  5%;
+    background-color: rgb(255, 255, 255);
+    text-align: justify;
+}
+.Menu{
+    background-color: #d38302;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: rgb(255, 255, 255);
+    padding: 3%;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+img{
+    width: 200px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.Imagens{
+    text-align: center;
+    
+}
+
+h1{
+    text-align:center;
+    height: 50px;
+}
+
+
+
+
